@@ -80,6 +80,7 @@ body {
 	font-size: 30px;
 }
 .about-me__introduction {
+	font-size: 16px;
 	font-family: 'Spectral';
 	font-weight: 800;
 	font-style: italic;
@@ -102,7 +103,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #6e661d;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
